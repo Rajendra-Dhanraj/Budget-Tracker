@@ -24,7 +24,7 @@ Whether connected or not to the internet, this application will allow the user t
 * Enter deposit transactions
 * Enter withdrawal transactions
 * Download the application directly to device
-* Post any transactions submitted while offline when reconnected to the internet.
+* Any transactions submitted while offline will be posted once reconnected to the internet.
 
 
 ### License
